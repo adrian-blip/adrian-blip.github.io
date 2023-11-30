@@ -1,0 +1,4 @@
+baseURL = 'https://adrian-blip.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site adrian'
+theme = "ananke"
